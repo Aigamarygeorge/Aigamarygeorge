@@ -24,12 +24,14 @@
 ### Reach out to me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/>
   </a> &nbsp;
+
   <a href="https://discord.com/users/1120277758786949151" target="_blank">
-     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="28" />
+    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="28" height="28" alt="Discord"/>
   </a>
 </p>
+
 
 <br>
 
