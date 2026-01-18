@@ -29,6 +29,8 @@
   </a>
 </p>
 
+[![Check out my Resume](https://path-to-your-gif/skeleton.gif)](https://path-to-your-resume/Aiga_Resume.pdf)
+
 <br>
 
 <hr>
