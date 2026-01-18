@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" /> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="28" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28" /> &nbsp;
@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" />
   </a> &nbsp;
   <a href="https://discord.com/users/1120277758786949151" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="28" />
+     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="28" />
   </a>
 </p>
 
