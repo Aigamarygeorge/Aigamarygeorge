@@ -8,7 +8,7 @@ A Software Engineer from India.
 <p align="left">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
 </p>
-### 🛠️:
+###🛠️:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" /> &nbsp;
