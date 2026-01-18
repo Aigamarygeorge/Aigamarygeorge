@@ -9,24 +9,24 @@
 ### 👨‍💻 Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" width="24" alt="python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" width="24" alt="html5" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" width="24" alt="css3" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" width="24" alt="mysql" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" width="24" alt="mssql" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" width="24" alt="docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" width="24" alt="figma" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="24" width="24" alt="python" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="24" width="24" alt="html5" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="24" width="24" alt="css3" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="24" width="24" alt="mysql" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" width="24" alt="mssql" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="24" width="24" alt="docker" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="24" width="24" alt="figma" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="24" width="24" alt="postman" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" width="24" alt="git" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="24" width="24" alt="powerbi" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="24" width="24" alt="git" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="24" width="24" alt="powerbi" />
 </p>
 
 ### 🤝 Reach out to me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" width="24" /></a> &nbsp;
-<a href="https://discord.com/users/1120277758786949151" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" height="24" width="24" /></a> &nbsp;
-<a href="https://github.com/Aigamarygeorge/Aigamarygeorge/raw/main/aiga.pdf" target="blank"><img src="https://www.vectorlogo.zone/logos/adobe_pdf/adobe_pdf-icon.svg" height="24" width="24" /></a>
+<a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="26" width="26" /></a> &nbsp;
+<a href="https://discord.com/users/1120277758786949151" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" height="26" width="26" /></a> &nbsp;
+<a href="https://github.com/Aigamarygeorge/Aigamarygeorge/raw/main/aiga.pdf" target="blank"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer_Icons/File.gif" height="28" width="28" /></a>
 </p>
 
 <br>
