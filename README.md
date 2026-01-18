@@ -1,4 +1,3 @@
-<h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 
 ### Hello! I’m Aiga Mary George, a Software Engineer from India.
 
@@ -30,6 +29,3 @@
 <br>
 
 <hr>
-
-Profile of: [Aiga Mary George](https://github.com/aiga-mary-george)  
-Last Edited on: 18/01/2026
