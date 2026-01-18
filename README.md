@@ -21,17 +21,17 @@
 </p>
 
 
-
 ### Reach out to me:
-
 <p align="left">
-<a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" /></a> &nbsp;
-<a href="https://discord.com/users/1120277758786949151" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" height="28" width="28" /></a> &nbsp;
-<a href="https://github.com/Aigamarygeorge/Aigamarygeorge/raw/main/aiga.pdf" target="blank"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer_Icons/File.gif" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" />
+  </a> &nbsp;
+  <a href="https://discord.com/users/1120277758786949151" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="28" />
+  </a>
 </p>
 
 <br>
 
 <hr>
 
-Profile of: [Aiga Mary George](https://github.com/Aigamarygeorge)
