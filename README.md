@@ -1,10 +1,5 @@
 
 ### Hello! I’m Aiga Mary George,
- Software Engineer | Passionate about building efficient and scalable software solutions  
- Based in India
-
-
-
 
 <p align="left">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
