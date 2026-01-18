@@ -2,6 +2,8 @@
 ### Hello! I’m Aiga Mary George, a Software Engineer from India.
 
 
+
+
 <p align="left">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
 </p>
@@ -12,10 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" alt="Docker"/> &nbsp;
-
-  <!-- Yellow Power BI icon -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="28" height="28" alt="Power BI"/> &nbsp;
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="28" height="28" alt="Power BI" style="filter: invert(71%) sepia(98%) saturate(746%) hue-rotate(6deg) brightness(104%) contrast(101%);" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28" height="28" alt="Postman"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="28" height="28" alt="Figma"/>
