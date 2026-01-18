@@ -1,5 +1,6 @@
 
-### Hello! I’m Aiga Mary George, a Software Engineer from India.
+### Hello! I’m Aiga Mary George,
+A Software Engineer from India.
 
 
 
