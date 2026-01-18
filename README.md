@@ -25,15 +25,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" height="28" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="28" height="28" alt="LinkedIn"/>
   </a> &nbsp;
 
   <a href="https://discord.com/users/1120277758786949151" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="28" height="28" alt="Discord"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="28" height="28" alt="Discord"/>
   </a>
 </p>
-
-
 
 <br>
 
