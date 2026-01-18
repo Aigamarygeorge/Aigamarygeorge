@@ -9,9 +9,10 @@ A Software Engineer from India.
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
 </p>
 <h3>
-  <img src="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" width="26" height="26" />
+  <img src="https://www.svgrepo.com/show/503163/tools.svg" width="22" style="vertical-align: middle;" />
   &nbsp;Languages and Tools
 </h3>
+
 
 
 <p align="left">
