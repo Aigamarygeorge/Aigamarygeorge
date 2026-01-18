@@ -8,6 +8,11 @@ A Software Engineer from India.
 <p align="left">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
 </p>
+<h3>
+  <img src="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" width="26" height="26" />
+  &nbsp;Languages and Tools
+</h3>
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" /> &nbsp;
