@@ -23,8 +23,16 @@
 
 ### Reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiga-mary-george-27568b27b/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1120277758786949151)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aiga-mary-george-27568b27b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" height="28" alt="LinkedIn"/>
+  </a> &nbsp;
+
+  <a href="https://discord.com/users/1120277758786949151" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="28" height="28" alt="Discord"/>
+  </a>
+</p>
+
 
 
 <br>
