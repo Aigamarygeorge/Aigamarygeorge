@@ -31,7 +31,8 @@
 
 ### 📄 Resume (yes, this is a joke — the resume isn’t)
 
-[![Resume](https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/resume-meme.png)](https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/Aiga_Mary_George_Resume.pdf)
+[![Resume](https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/resume_meme_2.png)]
+(https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/aiga.pdf)
 
 
 
