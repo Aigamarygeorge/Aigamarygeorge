@@ -29,7 +29,8 @@
   </a>
 </p>
 
-[![Check out my Resume](https://path-to-your-gif/skeleton.gif)](https://path-to-your-resume/Aiga_Resume.pdf)
+### 📄 Resume (yes, this is a joke… the resume isn’t)
+[![Resume]([GIF_OR_IMAGE_LINK](https://cdn-images.zety.com/pages/resume_meme_2.png))](RESUME_LINK)
 
 <br>
 
