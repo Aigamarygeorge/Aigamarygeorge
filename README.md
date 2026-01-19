@@ -29,8 +29,10 @@
   </a>
 </p>
 
-### 📄 Resume (yes, this is a joke… the resume isn’t)
-[![Resume Meme](https://raw.githubusercontent.com/YourUsername/RepoName/main/resume-meme.png)](https://github.com/YourUsername/YourResume.pdf)
+### 📄 Resume (yes, this is a joke — the resume isn’t)
+
+[![Resume](https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/resume-meme.png)](https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/Aiga_Mary_George_Resume.pdf)
+
 
 
 <br>
