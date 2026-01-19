@@ -30,7 +30,8 @@
 </p>
 
 ### 📄 Resume (yes, this is a joke… the resume isn’t)
-[![Resume]([GIF_OR_IMAGE_LINK](https://cdn-images.zety.com/pages/resume_meme_2.png))](RESUME_LINK)
+[![Resume Meme](https://raw.githubusercontent.com/YourUsername/RepoName/main/resume-meme.png)](https://github.com/YourUsername/YourResume.pdf)
+
 
 <br>
 
