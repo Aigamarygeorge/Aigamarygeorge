@@ -31,7 +31,7 @@
 
 ### 📄 Resume (yes, this is a joke — the resume isn’t)
 
-<a href="https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/Aiga_Resume" target="_blank">
+<a href="https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/Aiga_Resume.pdf" target="_blank">
   <img src="https://raw.githubusercontent.com/Aigamarygeorge/Aigamarygeorge/main/resume_meme.png" width="200">
 
 
